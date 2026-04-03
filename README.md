@@ -12,6 +12,10 @@ It includes:
 Tools Used:
 - Canva
 - Social Media Platforms
-- Buffer
+- Buffer *For schedule and launched post)
+- Meta Business Suite (For Analysis and insight)
+- Meta ad Library (For checking competitors running ads)
+- Keyword Tool and all hashtags (for keywords)
+  
 
 This project demonstrates my skills in digital marketing, content creation, and campaign management.
